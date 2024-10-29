@@ -9,6 +9,11 @@
     <p class="text-center text-xl font-light text-gray-700">Mobile apps development.</p>
 
     <img src={eye} alt="Parsed Wink" class="mx-auto w-64" />
+
+    <p class="text-center font-light leading-tight text-gray-600">
+      <strong>Contact</strong><br />leo.nistor at gmail.com<br />Mircea cel Batran 39<br />Brasov,
+      Romania
+    </p>
   </div>
 </div>
 
